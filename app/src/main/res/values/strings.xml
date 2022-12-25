@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCRPlayground</string>
+    <string name="scan_button">Scan</string>
+    <string name="ss_button">SS</string>
+</resources>
